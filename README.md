@@ -27,3 +27,12 @@ Site: https://vasafitness.com
 Description: Example of utilizing WordPress actions to trigger logic based on data captured from a Contact Form 7 form submission. The function retrieves the member's number from a REST API, creates a txt copy of a waiver, converts the waiver to base64, then sends the waiver to an API to be attached to that member's account. 
 
 *some data was retracted for security
+
+
+
+### cron-api-example.php*
+Site: https://vasafitness.com
+
+Description: Example of utilizing CRONs to optimize sending signed documents to an external API. This example features advanced backend functionality including complex SQL statements, file parsing, CURL operations, and more.
+
+*some data was retracted for security
